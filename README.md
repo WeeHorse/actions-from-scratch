@@ -1,3 +1,4 @@
 # actions-from-scratch
 
-This is a documnt
+This is a document!
+
